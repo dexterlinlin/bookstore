@@ -1,0 +1,13 @@
+<web-app id="bookstore-1.0-SNAPSHOT">
+    <jsp fast-jstl="false"/>
+
+    <!--database>
+        <jndi-name>jdbc/appfuse</jndi-name>
+        <driver type="com.mysql.jdbc.Driver">
+            <url>jdbc:mysql://localhost/bookstore</url>
+            <user>root</user>
+            <password>Changeme_123</password>
+        </driver>
+    </database-->
+</web-app>
+
